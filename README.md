@@ -19,8 +19,16 @@ This will download and extract the course data for you.
 
 0. Fork this repo, so can clone and push easily
 1. Start a VS Code Server session on Rivanna
-2. Clone this repo: `git clone https://github.com/<your GitHub username>/scratchpad`
+2. Clone this repo: ```git clone https://github.com/<your GitHub username>/scratchpad```
 3. Open `scratchpad` in your Code Server session
-4. At the command line, run `bash build.sh` ; this will build a virtual environment and download/extract your data
-5. To save your work locally, `git commit -am '<Describe your changes>'`
-6. To get your work back to Github, at the command line, run `git push origin main`
+4. At the command line, run ```bash
+5. bash build.sh
+6. ```
+7. This will build a virtual environment and download/extract your data
+8. To save your work locally,
+9. ```bash
+10. git commit -am '<Describe your changes>'
+11. ```
+12. To get your work back to Github, at the command line, run
+13. ```bash
+14. git push origin main```
