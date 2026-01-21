@@ -26,9 +26,10 @@ This will download and extract the course data for you.
 6. ```
 7. This will build a virtual environment and download/extract your data
 8. To save your work locally,
-9. ```bash
-10. git commit -am '<Describe your changes>'
-11. ```
-12. To get your work back to Github, at the command line, run
-13. ```bash
-14. git push origin main```
+    ```bash
+    git commit -am '<Describe your changes>'
+    ```
+13. To get your work back to Github, at the command line, run
+    ```bash
+    git push origin main
+    ```
